@@ -21,17 +21,25 @@ Ejemplo: #Tarea 1: realizar tal y cual ==> #Tarea 1 (Manuel Pérez): realizar ta
 ## Desarrollando la tarea
 7. Comienza a **escribir el código** de tu tarea, y realiza al menos *2 validaciones de código (commits)* añadiendo a la descripción del 'commit' un texto que describa los cambios que incorporan: la primera validación puede ser para el código en sí; la segunda validación puede ser para añadir comentarios en el código.
 Cada validación o commit irá acompañada de 'git push' para cargar en el proyecto remoto en github los cambios que vas haciendo.
+
 8. Asegúrate de que el **programa funciona correctamente** y sin errores, antes de proceder. Si hay errores, corrígelos y vuelve a validar los cambios.
+
 9. Ahora que tu tarea está terminada y funciona sin errores, **crea una etiqueta para tu rama** que nos permita en el futuro volver a esa versión limpia y operativa de la tarea que has implementado.
 
 ## Integrando tu trabajo con el de tus compañeros
 A continación vas a fundir o combinar la rama en la que has realizado tu tarea (libre de errores), con la versión más reciente de la rama principal del proyecto (tronco, rama principal, trunk, main, o head).
-8. **Actualiza tu repositorio local** con los últimos cambios del proyecto en github (git pull).
-9. En tu directorio local, **activa la rama principal** del proyecto (tronco, main, head, trunk).
-10. **Combine la rama principal con tu rama secundaria** (git merge), para integrar tu trabajo en la versión principal del proyecto.
-11. Si hay *conflictos*, porque los cambios de varios programadores se solapan en el mismo archivo, **resuelve los conflictos** con la herramienta diff (Merge Meld, o diff de GitKraken), hasta asegurar que todos tus cambios están en el lugar correcto del archivo de la rama principal.
-12. Ahora tus cambios están cargados en la rama principal. Lanza el programa y **asegura que funciona correctamente**, y que no hay errores. Si los hubiera, corrígelos y valida los cambios con los commit que necesites.
-13. Una vez que la rama principal tiene tus cambios y está depurada sin errores, **crea una etiqueta para la rama principal**, con un nombre apropiado. Esta etiqueta permitirá en un futuro recuperar la versión actual de la rama principal, por ejemplo si posteriores commit y merge de otros compañeros introducen errores, o rompen alguna funcionalidad.
+
+10. **Actualiza tu repositorio local** con los últimos cambios del proyecto en github (git pull).
+
+11. En tu directorio local, **activa la rama principal** del proyecto (tronco, main, head, trunk).
+
+12. **Combine la rama principal con tu rama secundaria** (git merge), para integrar tu trabajo en la versión principal del proyecto.
+
+13. Si hay *conflictos*, porque los cambios de varios programadores se solapan en el mismo archivo, **resuelve los conflictos** con la herramienta diff (Merge Meld, o diff de GitKraken), hasta asegurar que todos tus cambios están en el lugar correcto del archivo de la rama principal.
+
+14. Ahora tus cambios están cargados en la rama principal. Lanza el programa y **asegura que funciona correctamente**, y que no hay errores. Si los hubiera, corrígelos y valida los cambios con los commit que necesites.
+
+15. Una vez que la rama principal tiene tus cambios y está depurada sin errores, **crea una etiqueta para la rama principal**, con un nombre apropiado. Esta etiqueta permitirá en un futuro recuperar la versión actual de la rama principal, por ejemplo si posteriores commit y merge de otros compañeros introducen errores, o rompen alguna funcionalidad.
 
 ## Tomando perspectiva del trabajo del equipo
-14. Revisa en github el histórico de commits y merge del proyecto, y trata de **comprender el recorrido** que ha tenido el proyecto con las aportaciones tuyas y de tus compañeros. Opcionalmente puedes hacerlo también con la herramienta GitKraken.
+16. Revisa en github el histórico de commits y merge del proyecto, y trata de **comprender el recorrido** que ha tenido el proyecto con las aportaciones tuyas y de tus compañeros. Opcionalmente puedes hacerlo también con la herramienta GitKraken.
