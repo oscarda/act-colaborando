@@ -25,7 +25,7 @@ Cada validación o commit irá acompañada de 'git push' para cargar en el proye
 
 ## Integrando tu trabajo con el de tus compañeros
 A continación vas a fundir o combinar la rama en la que has realizado tu tarea (libre de errores), con la versión más reciente de la rama principal del proyecto (tronco, rama principal, trunk, main, o head).
-8. **Actualiza tu repositorio local** con los últimos cambios del proyecto en github (git pull)
+8. **Actualiza tu repositorio local** con los últimos cambios del proyecto en github (git pull).
 9. En tu directorio local, **activa la rama principal** del proyecto (tronco, main, head, trunk).
 10. **Combine la rama principal con tu rama secundaria** (git merge), para integrar tu trabajo en la versión principal del proyecto.
 11. Si hay *conflictos*, porque los cambios de varios programadores se solapan en el mismo archivo, **resuelve los conflictos** con la herramienta diff (Merge Meld, o diff de GitKraken), hasta asegurar que todos tus cambios están en el lugar correcto del archivo de la rama principal.
