@@ -11,6 +11,7 @@ Vamos a dividir la clase en equipos. Tú, como miembro de tu equipo, realizarás
 3. Abre el archivo de C++ o Python según corresponda, y lee los comentarios que indican las distintas **tareas a realizar**.
 Importante: mira también las **ramas existentes del proyecto**, para saber en qué están trabajando tus compañeros.
 4. **Escribe tu nombre** junto a la primera tarea sin comenzar.
+
 Ejemplo: #Tarea 1: realizar tal y cual ==> #Tarea 1 (Manuel Pérez): realizar tal y cual.
 
 ## Creación de una rama para desarrollar tu tarea
